@@ -75,15 +75,15 @@ $(document).ready(function() {
   //  Typed Js
   // ========================================================================= //
 
-  var typed = $(".typed");
+  // var typed = $(".typed");
 
-  $(function() {
-    typed.typed({
-      strings: ["Karl Huang.", "Student.", "Developer.", "Foodie."],
-      typeSpeed: 100,
-      loop: true,
-    });
-  });
+  // $(function() {
+  //   typed.typed({
+  //     strings: ["Karl Huang.", "Student.", "Developer.", "Foodie."],
+  //     typeSpeed: 100,
+  //     loop: true,
+  //   });
+  // });
 
 
   // ========================================================================= //
